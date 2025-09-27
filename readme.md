@@ -7,7 +7,7 @@ e as configurações em CSS foram utilizadas a partir da observação do site Yo
 
 The system in question uses a static interface, replicating YouTube's HTML and CSS. The commands and CSS settings were taken from YouTube.com, and some of the icons used were taken from the platform itself. This replication was done solely to enhance my HTML and CSS studies. ⚠️ I reiterate that everything was used for the purpose of learning front-end programming, and that all rights and trademark rights are served by the YouTube platform.
 
-![Descrição da Imagem](assets/imag_yt.png)
+![Descrição da Imagem](assets/img_yt.png)
 
 
 ## Ferramentas usadas
